@@ -1,0 +1,13 @@
+gunicorn
+dash
+plotly
+pandas
+dash_daq
+uniswap-python
+web3
+termcolor
+rich
+fire
+mexc-sdk
+wallstreet
+beautifulsoup4
