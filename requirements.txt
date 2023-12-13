@@ -8,6 +8,6 @@ web3
 termcolor
 rich
 fire
-mexc-sdk
+https://raw.githubusercontent.com/mexcdevelop/mexc-api-sdk/main/dist/python/mexc-sdk-1.0.0.tar.gz
 wallstreet
 beautifulsoup4
